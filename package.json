@@ -55,7 +55,7 @@
     "loader.js": "^4.2.3"
   },
   "dependencies": {
-    "ember-browserify": "^1.1.13",
+    "ember-browserify": "^1.1.14",
     "ember-cli-release": "^1.0.0-beta.2",
     "ember-fullcalendar": "git://github.com/mcfiredrill/ember-fullcalendar.git#datafruits",
     "emojione": "^3.0.0",
